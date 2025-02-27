@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-Here I will show some skills that I recently learned and things that recently happened.<br>
+记录一点最近的学习内容，以及生活碎片。
