@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-NULL
+Here I will show some skills that I recently learned and things that recently happened.<br>
